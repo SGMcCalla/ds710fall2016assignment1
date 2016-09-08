@@ -1,8 +1,21 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+Sunnie Grace McCalla
+
 2. Why are you interested in Data Science?
+I am a geneticist working with high throughput sequencing approaches to understand environmental DNA signatures for the genetic identification of fish eggs and larvae for rapid screening for aquatic invasive species. I am also conducting metabarcoding analysis of eDNA in water samples to detect fish species in a water system and diet analysis of Asian carps and common loons. These studies generate large amounts of data (typically >80 GB), and I would like to learn methods and techniques to best analyze, store, and communicate the data.
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I have taken several self-study courses through Codeacademy and Coursera. I regularly write linux bash scripts to execute processes for genetic data. I regularly use python programming to filter/analyze/execute processes for large genetic data sets that were generated using next-generation sequencing.
+
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+I have taken an Applied Regression Analysis course. At my current position as a geneticist, I regularly use bioinformatics programs to analyze large genetic data sets (generated using next-generation sequencing) that are analyzed using programs such as Qiime, Obitools, and R.
+
 5.  Do you have other experience with R or Python?
+R and Python are commonly used in the field of bioinformatics, so I have experience implementing or modifying code from these programs, but not extensive practice with writing many lines of code.
+
 6.  What do you hope to learn in this class?
+Python and R are commonly used to analyze and manipulate data generated with next-generation sequencing. I hope to become more adept and comfortable using these programs to process genetic data more efficiently and be able to explore different types of analysis that I might not otherwise be able to execute.
+
 7.  Is there anything else you would like to share with us?
+I went to the Eaux Claire's music and art festival http://eauxclaires.com/ this year and enjoyed the experience.
